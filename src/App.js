@@ -26,7 +26,7 @@ import {
   Search,
   SearchCast,
   AdminCast
-} from "./components/Index";
+} from "./components/index";
 import { Container, Row, Col, Button, Form } from "react-bootstrap";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
