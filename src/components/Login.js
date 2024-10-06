@@ -49,7 +49,7 @@ export default function Login() {
       password: password,
     };
     axios
-      .get("http://localhost:9999/user")
+      .get("https://sdn-test.vercel.app/user")
       .then((res) => {
         const userData = res.data;
         const foundUser = userData.find(
@@ -59,7 +59,7 @@ export default function Login() {
           localStorage.setItem("user", JSON.stringify(foundUser));
           if (foundUser.role === "ADMIN") {
             // Nếu là admin, chuyển hướng đến trang admin
-            window.location.href = "http://localhost:3000/admin";
+            window.location.href = "https://sdn-test.vercel.app/admin";
           } else {
             // Nếu là user thông thường, chuyển hướng đến trang chủ
             window.location.href = "/";
