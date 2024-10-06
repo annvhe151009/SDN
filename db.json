@@ -1,0 +1,1131 @@
+{
+  "movie": [
+    {
+      "id": 1,
+      "name": "Người Nhện: Không Còn Nhà ",
+      "status": true,
+      "description": "Peter Parker đã bị lộ mặt và không còn có thể tách biệt cuộc sống bình thường của mình với những yêu cầu cao của việc trở thành một Siêu anh hùng. Khi anh ta yêu cầu sự giúp đỡ từ Doctor Strange, mọi thứ càng trở nên nguy hiểm hơn, buộc anh ta phải khám phá ra ý nghĩa thực sự của việc trở thành Người Nhện.",
+      "release_year": "2021",
+      "director": "John Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4SQ2dJ1y2LBUnxTH7hCe8sr29c.jpg",
+      "trailers_url": "https://youtu.be/o4NzWTNqSto"
+    },
+    {
+      "id": 2,
+      "name": "Người Nhện: Du Hành Vũ Trụ Nhện",
+      "status": true,
+      "description": "Miles Morales tái xuất trong phần tiếp theo của bom tấn hoạt hình từng đoạt giải Oscar - Spider-Man: Across the Spider-Verse. Sau khi gặp lại Gwen Stacy, chàng Spider-Man thân thiện đến từ Brooklyn phải du hành qua đa vũ trụ và gặp một nhóm Người Nhện chịu trách nhiệm bảo vệ các thế giới song song. Nhưng khi nhóm siêu anh hùng xung đột về cách xử lý một mối đe dọa mới, Miles buộc phải đọ sức với các Người Nhện khác và phải xác định lại ý nghĩa của việc trở thành một người hùng để có thể cứu những người cậu yêu thương nhất.",
+      "release_year": "2023",
+      "director": "Ban Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bX547n5W9ZIKCeAE44Vf2nfw4w.jpg",
+      "trailers_url": "https://youtu.be/SUz8Aw28vrc"
+    },
+    {
+      "id": 3,
+      "name": "Đại Chiến Người Khổng Lồ",
+      "status": true,
+      "description": "Chứng kiến quê hương bị tàn phá, chàng thanh niên Eren Yeager quyết tâm chiến đấu với bọn Titan khổng lồ đang đe dọa hủy diệt loài người.",
+      "release_year": "2023",
+      "director": "Ban Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qDK2qEA5pfUK7Rog8urvgKuaXiP.jpg",
+      "trailers_url": "https://www.youtube.com/watch?v=O9T0j8mSPx8"
+    },
+    {
+      "id": 4,
+      "name": "Án Mạng Ở Venice",
+      "status": true,
+      "description": "Dựa trên tiểu thuyết Hallowe'en Party của nhà văn Agatha Christie, hành trình phá án của thám tử Hercule Poirot tiếp tục được đưa lên màn ảnh rộng.",
+      "release_year": "2023",
+      "director": "Kenneth Branagh",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3gsRQEqvMzkUdirHrZ10MdqamCR.jpg",
+      "trailers_url": "https://www.youtube.com/watch?v=EL8FdLQFUhc"
+    },
+    {
+      "id": 5,
+      "name": "Biệt Đội Marvel",
+      "status": true,
+      "description": "Carol Danvers bị vướng vào sức mạnh của Kamala Khan và Monica Rambeau, buộc họ phải hợp tác với nhau để cứu vũ trụ.",
+      "release_year": "2023",
+      "director": "Nia DaCosta",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qgotFL0XUevylN2enbc3SeT7x2m.jpg",
+      "trailers_url": "https://youtu.be/uwmDH12MAA4"
+    },
+    {
+      "id": 6,
+      "name": "Người Nhện: Không Còn Nhà ",
+      "status": true,
+      "description": "Peter Parker đã bị lộ mặt và không còn có thể tách biệt cuộc sống bình thường của mình với những yêu cầu cao của việc trở thành một Siêu anh hùng. Khi anh ta yêu cầu sự giúp đỡ từ Doctor Strange, mọi thứ càng trở nên nguy hiểm hơn, buộc anh ta phải khám phá ra ý nghĩa thực sự của việc trở thành Người Nhện.",
+      "release_year": "2021",
+      "director": "John Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4SQ2dJ1y2LBUnxTH7hCe8sr29c.jpg",
+      "trailers_url": "https://youtu.be/o4NzWTNqSto"
+    },
+    {
+      "id": 7,
+      "name": "Người Nhện: Du Hành Vũ Trụ Nhện",
+      "status": true,
+      "description": "Miles Morales tái xuất trong phần tiếp theo của bom tấn hoạt hình từng đoạt giải Oscar - Spider-Man: Across the Spider-Verse. Sau khi gặp lại Gwen Stacy, chàng Spider-Man thân thiện đến từ Brooklyn phải du hành qua đa vũ trụ và gặp một nhóm Người Nhện chịu trách nhiệm bảo vệ các thế giới song song. Nhưng khi nhóm siêu anh hùng xung đột về cách xử lý một mối đe dọa mới, Miles buộc phải đọ sức với các Người Nhện khác và phải xác định lại ý nghĩa của việc trở thành một người hùng để có thể cứu những người cậu yêu thương nhất.",
+      "release_year": "2023",
+      "director": "Ban Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bX547n5W9ZIKCeAE44Vf2nfw4w.jpg",
+      "trailers_url": "https://youtu.be/SUz8Aw28vrc"
+    },
+    {
+      "id": 8,
+      "name": "Đại Chiến Người Khổng Lồ",
+      "status": true,
+      "description": "Chứng kiến quê hương bị tàn phá, chàng thanh niên Eren Yeager quyết tâm chiến đấu với bọn Titan khổng lồ đang đe dọa hủy diệt loài người.",
+      "release_year": "2023",
+      "director": "Ban Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qDK2qEA5pfUK7Rog8urvgKuaXiP.jpg",
+      "trailers_url": "https://www.youtube.com/watch?v=O9T0j8mSPx8"
+    },
+    {
+      "id": 9,
+      "name": "Án Mạng Ở Venice",
+      "status": true,
+      "description": "Dựa trên tiểu thuyết Hallowe'en Party của nhà văn Agatha Christie, hành trình phá án của thám tử Hercule Poirot tiếp tục được đưa lên màn ảnh rộng.",
+      "release_year": "2023",
+      "director": "Kenneth Branagh",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3gsRQEqvMzkUdirHrZ10MdqamCR.jpg",
+      "trailers_url": "https://www.youtube.com/watch?v=EL8FdLQFUhc"
+    },
+    {
+      "id": 10,
+      "name": "Biệt Đội Marvel",
+      "status": true,
+      "description": "Carol Danvers bị vướng vào sức mạnh của Kamala Khan và Monica Rambeau, buộc họ phải hợp tác với nhau để cứu vũ trụ.",
+      "release_year": "2023",
+      "director": "Nia DaCosta",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qgotFL0XUevylN2enbc3SeT7x2m.jpg",
+      "trailers_url": "https://youtu.be/uwmDH12MAA4"
+    },
+    {
+      "id": 11,
+      "name": "Người Nhện: Không Còn Nhà ",
+      "status": true,
+      "description": "Peter Parker đã bị lộ mặt và không còn có thể tách biệt cuộc sống bình thường của mình với những yêu cầu cao của việc trở thành một Siêu anh hùng. Khi anh ta yêu cầu sự giúp đỡ từ Doctor Strange, mọi thứ càng trở nên nguy hiểm hơn, buộc anh ta phải khám phá ra ý nghĩa thực sự của việc trở thành Người Nhện.",
+      "release_year": "2021",
+      "director": "John Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4SQ2dJ1y2LBUnxTH7hCe8sr29c.jpg",
+      "trailers_url": "https://youtu.be/o4NzWTNqSto"
+    },
+    {
+      "id": 12,
+      "name": "Người Nhện: Du Hành Vũ Trụ Nhện",
+      "status": true,
+      "description": "Miles Morales tái xuất trong phần tiếp theo của bom tấn hoạt hình từng đoạt giải Oscar - Spider-Man: Across the Spider-Verse. Sau khi gặp lại Gwen Stacy, chàng Spider-Man thân thiện đến từ Brooklyn phải du hành qua đa vũ trụ và gặp một nhóm Người Nhện chịu trách nhiệm bảo vệ các thế giới song song. Nhưng khi nhóm siêu anh hùng xung đột về cách xử lý một mối đe dọa mới, Miles buộc phải đọ sức với các Người Nhện khác và phải xác định lại ý nghĩa của việc trở thành một người hùng để có thể cứu những người cậu yêu thương nhất.",
+      "release_year": "2023",
+      "director": "Ban Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bX547n5W9ZIKCeAE44Vf2nfw4w.jpg",
+      "trailers_url": "https://youtu.be/SUz8Aw28vrc"
+    },
+    {
+      "id": 13,
+      "name": "Đại Chiến Người Khổng Lồ",
+      "status": true,
+      "description": "Chứng kiến quê hương bị tàn phá, chàng thanh niên Eren Yeager quyết tâm chiến đấu với bọn Titan khổng lồ đang đe dọa hủy diệt loài người.",
+      "release_year": "2023",
+      "director": "Ban Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qDK2qEA5pfUK7Rog8urvgKuaXiP.jpg",
+      "trailers_url": "https://www.youtube.com/watch?v=O9T0j8mSPx8"
+    },
+    {
+      "id": 14,
+      "name": "Án Mạng Ở Venice",
+      "status": true,
+      "description": "Dựa trên tiểu thuyết Hallowe'en Party của nhà văn Agatha Christie, hành trình phá án của thám tử Hercule Poirot tiếp tục được đưa lên màn ảnh rộng.",
+      "release_year": "2023",
+      "director": "Kenneth Branagh",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3gsRQEqvMzkUdirHrZ10MdqamCR.jpg",
+      "trailers_url": "https://www.youtube.com/watch?v=EL8FdLQFUhc"
+    },
+    {
+      "id": 15,
+      "name": "Biệt Đội Marvel",
+      "status": true,
+      "description": "Carol Danvers bị vướng vào sức mạnh của Kamala Khan và Monica Rambeau, buộc họ phải hợp tác với nhau để cứu vũ trụ.",
+      "release_year": "2023",
+      "director": "Nia DaCosta",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qgotFL0XUevylN2enbc3SeT7x2m.jpg",
+      "trailers_url": "https://youtu.be/uwmDH12MAA4"
+    },
+    {
+      "id": 16,
+      "name": "Người Nhện: Không Còn Nhà ",
+      "status": true,
+      "description": "Peter Parker đã bị lộ mặt và không còn có thể tách biệt cuộc sống bình thường của mình với những yêu cầu cao của việc trở thành một Siêu anh hùng. Khi anh ta yêu cầu sự giúp đỡ từ Doctor Strange, mọi thứ càng trở nên nguy hiểm hơn, buộc anh ta phải khám phá ra ý nghĩa thực sự của việc trở thành Người Nhện.",
+      "release_year": "2021",
+      "director": "John Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4SQ2dJ1y2LBUnxTH7hCe8sr29c.jpg",
+      "trailers_url": "https://youtu.be/o4NzWTNqSto"
+    },
+    {
+      "id": 17,
+      "name": "Người Nhện: Du Hành Vũ Trụ Nhện",
+      "status": true,
+      "description": "Miles Morales tái xuất trong phần tiếp theo của bom tấn hoạt hình từng đoạt giải Oscar - Spider-Man: Across the Spider-Verse. Sau khi gặp lại Gwen Stacy, chàng Spider-Man thân thiện đến từ Brooklyn phải du hành qua đa vũ trụ và gặp một nhóm Người Nhện chịu trách nhiệm bảo vệ các thế giới song song. Nhưng khi nhóm siêu anh hùng xung đột về cách xử lý một mối đe dọa mới, Miles buộc phải đọ sức với các Người Nhện khác và phải xác định lại ý nghĩa của việc trở thành một người hùng để có thể cứu những người cậu yêu thương nhất.",
+      "release_year": "2023",
+      "director": "Ban Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bX547n5W9ZIKCeAE44Vf2nfw4w.jpg",
+      "trailers_url": "https://youtu.be/SUz8Aw28vrc"
+    },
+    {
+      "id": 18,
+      "name": "Đại Chiến Người Khổng Lồ",
+      "status": true,
+      "description": "Chứng kiến quê hương bị tàn phá, chàng thanh niên Eren Yeager quyết tâm chiến đấu với bọn Titan khổng lồ đang đe dọa hủy diệt loài người.",
+      "release_year": "2023",
+      "director": "Ban Dow",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qDK2qEA5pfUK7Rog8urvgKuaXiP.jpg",
+      "trailers_url": "https://www.youtube.com/watch?v=O9T0j8mSPx8"
+    },
+    {
+      "id": 19,
+      "name": "Án Mạng Ở Venice",
+      "status": true,
+      "description": "Dựa trên tiểu thuyết Hallowe'en Party của nhà văn Agatha Christie, hành trình phá án của thám tử Hercule Poirot tiếp tục được đưa lên màn ảnh rộng.",
+      "release_year": "2023",
+      "director": "Kenneth Branagh",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3gsRQEqvMzkUdirHrZ10MdqamCR.jpg",
+      "trailers_url": "https://www.youtube.com/watch?v=EL8FdLQFUhc"
+    },
+    {
+      "id": 20,
+      "name": "Biệt Đội Marvel",
+      "status": true,
+      "description": "Carol Danvers bị vướng vào sức mạnh của Kamala Khan và Monica Rambeau, buộc họ phải hợp tác với nhau để cứu vũ trụ.",
+      "release_year": "2023",
+      "director": "Nia DaCosta",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qgotFL0XUevylN2enbc3SeT7x2m.jpg",
+      "trailers_url": "https://youtu.be/uwmDH12MAA4"
+    },
+    {
+      "id": 21,
+      "name": "Án Mạng Ở Venice",
+      "status": true,
+      "description": "Dựa trên tiểu thuyết Hallowe'en Party của nhà văn Agatha Christie, hành trình phá án của thám tử Hercule Poirot tiếp tục được đưa lên màn ảnh rộng.",
+      "release_year": "2023",
+      "director": "Kenneth Branagh",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3gsRQEqvMzkUdirHrZ10MdqamCR.jpg",
+      "trailers_url": "https://www.youtube.com/watch?v=EL8FdLQFUhc"
+    },
+    {
+      "id": 22,
+      "name": "Biệt Đội Marvel",
+      "status": true,
+      "description": "Carol Danvers bị vướng vào sức mạnh của Kamala Khan và Monica Rambeau, buộc họ phải hợp tác với nhau để cứu vũ trụ.",
+      "release_year": "2023",
+      "director": "Nia DaCosta",
+      "img_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qgotFL0XUevylN2enbc3SeT7x2m.jpg",
+      "trailers_url": "https://youtu.be/uwmDH12MAA4"
+    }
+  ],
+  "movie_genre": [
+    {
+      "id": 1,
+      "movie_id": 1,
+      "genre_id": 1
+    },
+    {
+      "id": 2,
+      "movie_id": 1,
+      "genre_id": 2
+    },
+    {
+      "id": 3,
+      "movie_id": 1,
+      "genre_id": 3
+    },
+    {
+      "id": 4,
+      "movie_id": 2,
+      "genre_id": 2
+    },
+    {
+      "id": 5,
+      "movie_id": 3,
+      "genre_id": 3
+    },
+    {
+      "id": 6,
+      "movie_id": 4,
+      "genre_id": 4
+    }
+  ],
+  "genre": [
+    {
+      "id": 1,
+      "name": "Phim Hành Động",
+      "description": "todo",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Phim Phiêu lưu",
+      "description": "todo",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Khoa học viễn tưởng",
+      "description": "todo",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Phim gay cấn",
+      "description": "todo",
+      "status": true
+    }
+  ],
+  "movie_detail": [
+    {
+      "id": 1,
+      "movie_id": 1,
+      "cast_id": 1
+    },
+    {
+      "id": 2,
+      "movie_id": 1,
+      "cast_id": 2
+    },
+    {
+      "id": 3,
+      "movie_id": 2,
+      "cast_id": 1
+    },
+    {
+      "id": 4,
+      "movie_id": 3,
+      "cast_id": 1
+    }
+  ],
+  "cast": [
+    {
+      "id": 1,
+      "name": "Tom Holland",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg",
+      "description": "Thomas 'Tom' Stanley Holland is an English actor and dancer. He is best known for playing Peter Parker / Spider-Man in the Marvel Cinematic Universe and has appeared as the character in six films: Captain America: Civil War (2016), Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021). He is also known for playing the title role in Billy Elliot the Musical at the Victoria Palace Theatre, London, as well as for starring in the 2012 film The Impossible.",
+      "dob": "1996-06-01",
+      "country": "Surrey, England, UK",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Zendaya",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6TE2AlOUqcrs7CyJiWYgodmee1r.jpg",
+      "description": "Zendaya Maree Stoermer Coleman (born September 1, 1996) is an American actress and singer. She began her career as a child model and backup dancer. She rose to mainstream prominence for her role as Rocky Blue on the Disney Channel sitcom Shake It Up (2010–2013). In 2013, Zendaya was a contestant on the 16th season of the dance competition series Dancing with the Stars. She produced and starred as the titular spy, K.C. Cooper, in the sitcom K.C. Undercover (2015–2018). Her film roles include the musical drama The Greatest Showman (2017), the superhero film Spider-Man: Homecoming (2017) and its sequels, the computer-animated musical comedy Smallfoot (2018), the romantic drama Malcolm & Marie (2021), the live-action/animation hybrid sports comedy Space Jam: A New Legacy (2021), and the science fiction epic Dune (2021).",
+      "dob": "1996-09-01",
+      "country": "Oakland, California, USA",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Tom Holland",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg",
+      "description": "Thomas 'Tom' Stanley Holland is an English actor and dancer. He is best known for playing Peter Parker / Spider-Man in the Marvel Cinematic Universe and has appeared as the character in six films: Captain America: Civil War (2016), Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021). He is also known for playing the title role in Billy Elliot the Musical at the Victoria Palace Theatre, London, as well as for starring in the 2012 film The Impossible.",
+      "dob": "1996-06-01",
+      "country": "Surrey, England, UK",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Zendaya",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6TE2AlOUqcrs7CyJiWYgodmee1r.jpg",
+      "description": "Zendaya Maree Stoermer Coleman (born September 1, 1996) is an American actress and singer. She began her career as a child model and backup dancer. She rose to mainstream prominence for her role as Rocky Blue on the Disney Channel sitcom Shake It Up (2010–2013). In 2013, Zendaya was a contestant on the 16th season of the dance competition series Dancing with the Stars. She produced and starred as the titular spy, K.C. Cooper, in the sitcom K.C. Undercover (2015–2018). Her film roles include the musical drama The Greatest Showman (2017), the superhero film Spider-Man: Homecoming (2017) and its sequels, the computer-animated musical comedy Smallfoot (2018), the romantic drama Malcolm & Marie (2021), the live-action/animation hybrid sports comedy Space Jam: A New Legacy (2021), and the science fiction epic Dune (2021).",
+      "dob": "1996-09-01",
+      "country": "Oakland, California, USA",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Tom Holland",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg",
+      "description": "Thomas 'Tom' Stanley Holland is an English actor and dancer. He is best known for playing Peter Parker / Spider-Man in the Marvel Cinematic Universe and has appeared as the character in six films: Captain America: Civil War (2016), Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021). He is also known for playing the title role in Billy Elliot the Musical at the Victoria Palace Theatre, London, as well as for starring in the 2012 film The Impossible.",
+      "dob": "1996-06-01",
+      "country": "Surrey, England, UK",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Zendaya",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6TE2AlOUqcrs7CyJiWYgodmee1r.jpg",
+      "description": "Zendaya Maree Stoermer Coleman (born September 1, 1996) is an American actress and singer. She began her career as a child model and backup dancer. She rose to mainstream prominence for her role as Rocky Blue on the Disney Channel sitcom Shake It Up (2010–2013). In 2013, Zendaya was a contestant on the 16th season of the dance competition series Dancing with the Stars. She produced and starred as the titular spy, K.C. Cooper, in the sitcom K.C. Undercover (2015–2018). Her film roles include the musical drama The Greatest Showman (2017), the superhero film Spider-Man: Homecoming (2017) and its sequels, the computer-animated musical comedy Smallfoot (2018), the romantic drama Malcolm & Marie (2021), the live-action/animation hybrid sports comedy Space Jam: A New Legacy (2021), and the science fiction epic Dune (2021).",
+      "dob": "1996-09-01",
+      "country": "Oakland, California, USA",
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "Tom Holland",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg",
+      "description": "Thomas 'Tom' Stanley Holland is an English actor and dancer. He is best known for playing Peter Parker / Spider-Man in the Marvel Cinematic Universe and has appeared as the character in six films: Captain America: Civil War (2016), Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021). He is also known for playing the title role in Billy Elliot the Musical at the Victoria Palace Theatre, London, as well as for starring in the 2012 film The Impossible.",
+      "dob": "1996-06-01",
+      "country": "Surrey, England, UK",
+      "status": true
+    },
+    {
+      "id": 8,
+      "name": "Zendaya",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6TE2AlOUqcrs7CyJiWYgodmee1r.jpg",
+      "description": "Zendaya Maree Stoermer Coleman (born September 1, 1996) is an American actress and singer. She began her career as a child model and backup dancer. She rose to mainstream prominence for her role as Rocky Blue on the Disney Channel sitcom Shake It Up (2010–2013). In 2013, Zendaya was a contestant on the 16th season of the dance competition series Dancing with the Stars. She produced and starred as the titular spy, K.C. Cooper, in the sitcom K.C. Undercover (2015–2018). Her film roles include the musical drama The Greatest Showman (2017), the superhero film Spider-Man: Homecoming (2017) and its sequels, the computer-animated musical comedy Smallfoot (2018), the romantic drama Malcolm & Marie (2021), the live-action/animation hybrid sports comedy Space Jam: A New Legacy (2021), and the science fiction epic Dune (2021).",
+      "dob": "1996-09-01",
+      "country": "Oakland, California, USA",
+      "status": true
+    },
+    {
+      "id": 9,
+      "name": "Tom Holland",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg",
+      "description": "Thomas 'Tom' Stanley Holland is an English actor and dancer. He is best known for playing Peter Parker / Spider-Man in the Marvel Cinematic Universe and has appeared as the character in six films: Captain America: Civil War (2016), Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021). He is also known for playing the title role in Billy Elliot the Musical at the Victoria Palace Theatre, London, as well as for starring in the 2012 film The Impossible.",
+      "dob": "1996-06-01",
+      "country": "Surrey, England, UK",
+      "status": true
+    },
+    {
+      "id": 10,
+      "name": "Zendaya",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6TE2AlOUqcrs7CyJiWYgodmee1r.jpg",
+      "description": "Zendaya Maree Stoermer Coleman (born September 1, 1996) is an American actress and singer. She began her career as a child model and backup dancer. She rose to mainstream prominence for her role as Rocky Blue on the Disney Channel sitcom Shake It Up (2010–2013). In 2013, Zendaya was a contestant on the 16th season of the dance competition series Dancing with the Stars. She produced and starred as the titular spy, K.C. Cooper, in the sitcom K.C. Undercover (2015–2018). Her film roles include the musical drama The Greatest Showman (2017), the superhero film Spider-Man: Homecoming (2017) and its sequels, the computer-animated musical comedy Smallfoot (2018), the romantic drama Malcolm & Marie (2021), the live-action/animation hybrid sports comedy Space Jam: A New Legacy (2021), and the science fiction epic Dune (2021).",
+      "dob": "1996-09-01",
+      "country": "Oakland, California, USA",
+      "status": true
+    },
+    {
+      "id": 11,
+      "name": "Tom Holland",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg",
+      "description": "Thomas 'Tom' Stanley Holland is an English actor and dancer. He is best known for playing Peter Parker / Spider-Man in the Marvel Cinematic Universe and has appeared as the character in six films: Captain America: Civil War (2016), Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021). He is also known for playing the title role in Billy Elliot the Musical at the Victoria Palace Theatre, London, as well as for starring in the 2012 film The Impossible.",
+      "dob": "1996-06-01",
+      "country": "Surrey, England, UK",
+      "status": true
+    },
+    {
+      "id": 12,
+      "name": "Zendaya",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6TE2AlOUqcrs7CyJiWYgodmee1r.jpg",
+      "description": "Zendaya Maree Stoermer Coleman (born September 1, 1996) is an American actress and singer. She began her career as a child model and backup dancer. She rose to mainstream prominence for her role as Rocky Blue on the Disney Channel sitcom Shake It Up (2010–2013). In 2013, Zendaya was a contestant on the 16th season of the dance competition series Dancing with the Stars. She produced and starred as the titular spy, K.C. Cooper, in the sitcom K.C. Undercover (2015–2018). Her film roles include the musical drama The Greatest Showman (2017), the superhero film Spider-Man: Homecoming (2017) and its sequels, the computer-animated musical comedy Smallfoot (2018), the romantic drama Malcolm & Marie (2021), the live-action/animation hybrid sports comedy Space Jam: A New Legacy (2021), and the science fiction epic Dune (2021).",
+      "dob": "1996-09-01",
+      "country": "Oakland, California, USA",
+      "status": true
+    },
+    {
+      "id": 13,
+      "name": "Tom Holland",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg",
+      "description": "Thomas 'Tom' Stanley Holland is an English actor and dancer. He is best known for playing Peter Parker / Spider-Man in the Marvel Cinematic Universe and has appeared as the character in six films: Captain America: Civil War (2016), Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021). He is also known for playing the title role in Billy Elliot the Musical at the Victoria Palace Theatre, London, as well as for starring in the 2012 film The Impossible.",
+      "dob": "1996-06-01",
+      "country": "Surrey, England, UK",
+      "status": true
+    },
+    {
+      "id": 14,
+      "name": "Zendaya",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6TE2AlOUqcrs7CyJiWYgodmee1r.jpg",
+      "description": "Zendaya Maree Stoermer Coleman (born September 1, 1996) is an American actress and singer. She began her career as a child model and backup dancer. She rose to mainstream prominence for her role as Rocky Blue on the Disney Channel sitcom Shake It Up (2010–2013). In 2013, Zendaya was a contestant on the 16th season of the dance competition series Dancing with the Stars. She produced and starred as the titular spy, K.C. Cooper, in the sitcom K.C. Undercover (2015–2018). Her film roles include the musical drama The Greatest Showman (2017), the superhero film Spider-Man: Homecoming (2017) and its sequels, the computer-animated musical comedy Smallfoot (2018), the romantic drama Malcolm & Marie (2021), the live-action/animation hybrid sports comedy Space Jam: A New Legacy (2021), and the science fiction epic Dune (2021).",
+      "dob": "1996-09-01",
+      "country": "Oakland, California, USA",
+      "status": true
+    },
+    {
+      "id": 15,
+      "name": "Tom Holland",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg",
+      "description": "Thomas 'Tom' Stanley Holland is an English actor and dancer. He is best known for playing Peter Parker / Spider-Man in the Marvel Cinematic Universe and has appeared as the character in six films: Captain America: Civil War (2016), Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021). He is also known for playing the title role in Billy Elliot the Musical at the Victoria Palace Theatre, London, as well as for starring in the 2012 film The Impossible.",
+      "dob": "1996-06-01",
+      "country": "Surrey, England, UK",
+      "status": true
+    },
+    {
+      "id": 16,
+      "name": "Zendaya",
+      "img": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6TE2AlOUqcrs7CyJiWYgodmee1r.jpg",
+      "description": "Zendaya Maree Stoermer Coleman (born September 1, 1996) is an American actress and singer. She began her career as a child model and backup dancer. She rose to mainstream prominence for her role as Rocky Blue on the Disney Channel sitcom Shake It Up (2010–2013). In 2013, Zendaya was a contestant on the 16th season of the dance competition series Dancing with the Stars. She produced and starred as the titular spy, K.C. Cooper, in the sitcom K.C. Undercover (2015–2018). Her film roles include the musical drama The Greatest Showman (2017), the superhero film Spider-Man: Homecoming (2017) and its sequels, the computer-animated musical comedy Smallfoot (2018), the romantic drama Malcolm & Marie (2021), the live-action/animation hybrid sports comedy Space Jam: A New Legacy (2021), and the science fiction epic Dune (2021).",
+      "dob": "1996-09-01",
+      "country": "Oakland, California, USA",
+      "status": true
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "Admin@123",
+      "email": "Nguyenkhanhlinh452003@gmail.com",
+      "fullname": "Nguyen Khanh Linh",
+      "country": "United States",
+      "gender": "Female",
+      "phonenumber": "123456",
+      "isPrimeum": true,
+      "avatar": "/images/uploads/author.png",
+      "role": "ADMIN",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "username": "Linhnk",
+      "password": "123456",
+      "email": "Nguyenkhanhlinh452003@gmail.com",
+      "fullname": "Nguyen Khanh Linh",
+      "country": "Vietnam",
+      "gender": "Female",
+      "phonenumber": "123",
+      "isPrimeum": true,
+      "avatar": "https://www.shareicon.net/data/512x512/2016/05/24/770117_people_512x512.png",
+      "role": "USER",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "username": "nguyenvana",
+      "password": "123456",
+      "email": "nguyenvana@gmail.com",
+      "fullname": "Hoang Mai Dung",
+      "country": "Vietnam",
+      "phonenumber": "123",
+      "gender": "Female",
+      "isPrimeum": false,
+      "avatar": "https://www.shareicon.net/data/512x512/2016/05/24/770117_people_512x512.png",
+      "role": "USER",
+      "status": "active"
+    },
+    {
+      "username": "linhxinhdep",
+      "email": "linhxinh@gmail.com",
+      "password": "123456",
+      "role": "USER",
+      "status": "active",
+      "avatar": "https://www.shareicon.net/data/512x512/2016/05/24/770117_people_512x512.png",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "username": "linhxinhdep",
+      "password": "123456",
+      "email": "linhxinh@gmail.com",
+      "fullname": "",
+      "country": "",
+      "gender": "",
+      "phonenumber": "",
+      "isPrimeum": false,
+      "avatar": "https://www.shareicon.net/data/512x512/2016/05/24/770117_people_512x512.png",
+      "role": "USER",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "username": "linhxinhdep",
+      "password": "123456",
+      "email": "linhxinh@gmail.com",
+      "fullname": "",
+      "country": "",
+      "gender": "",
+      "phonenumber": "",
+      "isPrimeum": false,
+      "avatar": "https://www.shareicon.net/data/512x512/2016/05/24/770117_people_512x512.png",
+      "role": "USER",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "username": "linhxinhdep",
+      "password": "123456",
+      "email": "linhxinh@gmail.com",
+      "fullname": "",
+      "country": "",
+      "gender": "",
+      "phonenumber": "",
+      "isPrimeum": false,
+      "avatar": "https://www.shareicon.net/data/512x512/2016/05/24/770117_people_512x512.png",
+      "role": "USER",
+      "status": "active"
+    }
+  ],
+  "rate": [
+    {
+      "id": 1,
+      "movie_id": 1,
+      "user_id": 2,
+      "rating": 4,
+      "create_at": "2023-10-29",
+      "status": true
+    },
+    {
+      "id": 2,
+      "movie_id": 1,
+      "user_id": 3,
+      "rating": 5,
+      "create_at": "2023-10-30",
+      "status": true
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "rating": 10,
+      "create_at": "2023-11-03",
+      "status": true,
+      "id": 3
+    },
+    {
+      "movie_id": 2,
+      "user_id": 1,
+      "rating": 7,
+      "create_at": "2023-11-03",
+      "status": true,
+      "id": 4
+    },
+    {
+      "movie_id": 1,
+      "user_id": {},
+      "rating": 7,
+      "create_at": "2023-11-06",
+      "status": true,
+      "id": 5
+    },
+    {
+      "movie_id": "5",
+      "user_id": 1,
+      "rating": 6,
+      "create_at": "2023-11-08",
+      "status": true,
+      "id": 6
+    },
+    {
+      "movie_id": "8",
+      "user_id": 1,
+      "rating": 5,
+      "create_at": "2023-11-08",
+      "status": true,
+      "id": 7
+    },
+    {
+      "movie_id": "12",
+      "user_id": 1,
+      "rating": 4,
+      "create_at": "2023-11-08",
+      "status": true,
+      "id": 8
+    }
+  ],
+  "comment": [
+    {
+      "id": 1,
+      "movie_id": 1,
+      "user_id": 2,
+      "content": "phim hơi chán cho 1 sao thôi :P",
+      "create_at": "2023-10-29",
+      "status": true,
+      "parent_comment_id": null
+    },
+    {
+      "id": 2,
+      "movie_id": 1,
+      "user_id": 3,
+      "content": "Phim hay mà vote 5 sao đuê, report thằng gây war cho phim",
+      "create_at": "2023-10-30",
+      "status": true,
+      "parent_comment_id": 1
+    },
+    {
+      "id": 3,
+      "movie_id": 1,
+      "user_id": 3,
+      "content": "Phim hay mà vote 5 sao đuê, report thằng gây war cho phim",
+      "create_at": "2023-10-30",
+      "status": true,
+      "parent_comment_id": 1
+    },
+    {
+      "id": 4,
+      "movie_id": 1,
+      "user_id": 3,
+      "content": "Phim hay mà vote 5 sao đuê, report thằng gây war cho phim",
+      "create_at": "2023-10-30",
+      "status": true,
+      "parent_comment_id": null
+    },
+    {
+      "id": 5,
+      "movie_id": 1,
+      "user_id": 3,
+      "content": "Phim hay mà vote 5 sao đuê, report thằng gây war cho phim",
+      "create_at": "2023-10-30",
+      "status": true,
+      "parent_comment_id": 4
+    },
+    {
+      "id": 6,
+      "movie_id": 1,
+      "user_id": 3,
+      "content": "Phim hay mà vote 5 sao đuê, report thằng gây war cho phim",
+      "create_at": "2023-10-30",
+      "status": true,
+      "parent_comment_id": null
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 7
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 8
+    },
+    {
+      "content": "132",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 2,
+      "id": 9
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qưeqweqwe",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 10
+    },
+    {
+      "content": "qewqwe",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 1,
+      "id": 11
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 12
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qưe",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 1,
+      "id": 13
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "123213123213213123uhadyawbu eq",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 1,
+      "id": 14
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "sda",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 1,
+      "id": 15
+    },
+    {
+      "content": "sadasd",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 15,
+      "id": 16
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qưeqwewqewq",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 2,
+      "id": 17
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qưe",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 3,
+      "id": 18
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qưeqwe",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 17,
+      "id": 19
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "eqwe",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 17,
+      "id": 20
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qưewqe",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 19,
+      "id": 21
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qew",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 17,
+      "id": 22
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qưeqwe",
+      "create_at": "2023-11-02",
+      "status": true,
+      "parent_comment_id": 21,
+      "id": 23
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qưeqew",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": 4,
+      "id": 24
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qưeqweqwe",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": 5,
+      "id": 25
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "13",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": 25,
+      "id": 26
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 27
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qew",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 28
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "213",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 29
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "content": "qưe",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": 27,
+      "id": 30
+    },
+    {
+      "movie_id": "2",
+      "user_id": 1,
+      "content": "12",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 31
+    },
+    {
+      "movie_id": "2",
+      "user_id": 1,
+      "content": "ưqe",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": 31,
+      "id": 32
+    },
+    {
+      "movie_id": "2",
+      "user_id": 1,
+      "content": "dưqe\nưqe",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 33
+    },
+    {
+      "movie_id": "2",
+      "user_id": 1,
+      "content": "qwewq ed\nqư eq e\nqư e qưe\n",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 34
+    },
+    {
+      "movie_id": "2",
+      "user_id": 1,
+      "content": "ewq",
+      "create_at": "2023-11-03",
+      "status": true,
+      "parent_comment_id": 31,
+      "id": 35
+    },
+    {
+      "movie_id": "1",
+      "user_id": 1,
+      "content": "hello",
+      "create_at": "2023-11-06",
+      "status": true,
+      "parent_comment_id": 1,
+      "id": 36
+    },
+    {
+      "movie_id": "1",
+      "user_id": 1,
+      "content": "wqeqweqwewqewqe",
+      "create_at": "2023-11-06",
+      "status": true,
+      "parent_comment_id": 1,
+      "id": 37
+    },
+    {
+      "movie_id": "1",
+      "user_id": 1,
+      "content": "adsasd",
+      "create_at": "2023-11-06",
+      "status": true,
+      "parent_comment_id": 29,
+      "id": 38
+    },
+    {
+      "movie_id": "1",
+      "user_id": 1,
+      "content": "qewqwe",
+      "create_at": "2023-11-06",
+      "status": true,
+      "parent_comment_id": 29,
+      "id": 39
+    },
+    {
+      "movie_id": "1",
+      "user_id": 4,
+      "content": "qwewqe",
+      "create_at": "2023-11-06",
+      "status": true,
+      "parent_comment_id": 28,
+      "id": 40
+    },
+    {
+      "movie_id": "1",
+      "user_id": 1,
+      "content": "jdcb",
+      "create_at": "2023-11-08",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 41
+    },
+    {
+      "movie_id": "1",
+      "user_id": 2,
+      "content": "dhc",
+      "create_at": "2023-11-08",
+      "status": true,
+      "parent_comment_id": 1,
+      "id": 42
+    },
+    {
+      "movie_id": "1",
+      "user_id": 2,
+      "content": "bg",
+      "create_at": "2023-11-08",
+      "status": true,
+      "parent_comment_id": 1,
+      "id": 43
+    },
+    {
+      "movie_id": "8",
+      "user_id": 1,
+      "content": "phim hay\n",
+      "create_at": "2023-11-08",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 44
+    },
+    {
+      "movie_id": "4",
+      "user_id": 1,
+      "content": "phim hay, rất gay cấn",
+      "create_at": "2023-11-08",
+      "status": true,
+      "parent_comment_id": null,
+      "id": 45
+    }
+  ],
+  "report": [
+    {
+      "id": 1,
+      "user_id": 2,
+      "comment_id": 1,
+      "reason": "phim hay mà đánh giá 1 sao, chứng tỏ gây war",
+      "create_at": "2023-10-30",
+      "status": "Chờ xử lí"
+    },
+    {
+      "user_id": 1,
+      "comment_id": 31,
+      "reason": "vh",
+      "create_at": "2023-11-08",
+      "status": "Chờ xử lí",
+      "id": 2
+    },
+    {
+      "user_id": 1,
+      "comment_id": 31,
+      "reason": "vhjncj",
+      "create_at": "2023-11-08",
+      "status": "Chờ xử lí",
+      "id": 3
+    }
+  ],
+  "advertising": [
+    {
+      "id": 1,
+      "img_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bX547n5W9ZIKCeAE44Vf2nfw4w.jpg",
+      "description": "todo",
+      "title": "todo",
+      "place": "todo",
+      "start_date": "2023-09-30",
+      "end_date": "2023-10-30",
+      "price": "1.000.000VND"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 2,
+      "movie_id": 2,
+      "user_id": 1
+    },
+    {
+      "id": 3,
+      "movie_id": 1,
+      "user_id": 2
+    },
+    {
+      "id": 4,
+      "movie_id": 2,
+      "user_id": 3
+    },
+    {
+      "movie_id": 1,
+      "user_id": 4,
+      "id": 5
+    },
+    {
+      "movie_id": 3,
+      "user_id": 1,
+      "id": 7
+    },
+    {
+      "movie_id": 8,
+      "user_id": 1,
+      "id": 9
+    },
+    {
+      "movie_id": 16,
+      "user_id": 1,
+      "id": 10
+    },
+    {
+      "movie_id": 10,
+      "user_id": 1,
+      "id": 11
+    },
+    {
+      "movie_id": 14,
+      "user_id": 1,
+      "id": 12
+    },
+    {
+      "movie_id": 13,
+      "user_id": 1,
+      "id": 13
+    },
+    {
+      "movie_id": 12,
+      "user_id": 1,
+      "id": 14
+    },
+    {
+      "movie_id": 1,
+      "user_id": 1,
+      "id": 15
+    },
+    {
+      "movie_id": 4,
+      "user_id": 1,
+      "id": 16
+    }
+  ],
+  "subscribe": [
+    {
+      "id": 1,
+      "email": "hoangmaidung@gmail.com"
+    },
+    {
+      "email": "maidung@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "maidung@gmail.com",
+      "id": 3
+    }
+  ]
+}

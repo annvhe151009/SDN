@@ -1,0 +1,17 @@
+.fa-caret-up{
+    position: absolute;
+    right: 6px;
+    top: 10px;
+    color: #cccccc;
+    cursor: pointer;
+}
+.fa-caret-down{
+    position: absolute;
+    right: 6px;
+    top: 22px;
+    color: #cccccc;
+    cursor: pointer;
+}
+th {
+    position: relative;
+}

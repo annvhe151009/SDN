@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Web site created using create-react-app" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+  <link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Dosis:400,700,500|Nunito:300,400,600'
+    class="user" />
+  <link rel="stylesheet" href="/css/plugins.css" id="user">
+  <link rel="stylesheet" href="/css/style.css" id="user">
+  <link rel="stylesheet" href="/css/sort.css" id="user">
+  <script src="https://kit.fontawesome.com/244ff4b41a.js" crossorigin="anonymous" class="user"></script>
+
+  <link href="/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet" class="admin">
+  <link href="/vendors/nprogress/nprogress.css" rel="stylesheet" class="admin">
+  <link href="/build/css/custom.min.css" rel="stylesheet" class="admin">
+
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+</body>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const url = window.location.pathname;
+    const isAdminPage = url.startsWith('/admin');
+
+    // Get elements by class
+    const userElements = document.querySelectorAll('.user');
+    const adminElements = document.querySelectorAll('.admin');
+
+    // Remove elements based on the URL
+    if (isAdminPage) {
+      userElements.forEach(element => element.remove());
+    } else {
+      adminElements.forEach(element => element.remove());
+    }
+  });
+</script>
+
+<script src="/vendors/jquery/dist/jquery.min.js" class="admin"></script>
+<script src="/vendors/datatables.net/js/jquery.dataTables.min.js" class="admin"></script>
+<script src="/vendors/pdfmake/build/pdfmake.min.js" class="admin"></script>
+<script src="/vendors/pdfmake/build/vfs_fonts.js" class="admin"></script>
+<script src="/build/js/custom.min.js" class="admin"></script>
+<script src="/vendors/bootstrap/dist/js/bootstrap.min.js" class="admin"></script>
+
+
+<script src="/js/jquery.js" class="user"></script>
+<script src="/js/plugins.js" class="user"></script>
+<script src="/js/plugins2.js" class="user"></script>
+<script src="/js/custom.js" class="user"></script>
+
+
+
+</html>
